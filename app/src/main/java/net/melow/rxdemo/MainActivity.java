@@ -110,11 +110,5 @@ public class MainActivity extends AppCompatActivity {
                            }
                 );
 
-        /*.subscribe(new Action1<String>() {
-            @Override
-            public void call(String s) {
-                System.out.println(s);
-            }
-        });*/
     }
 }
